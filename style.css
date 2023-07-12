@@ -1,0 +1,265 @@
+.header_sec{
+    margin:20px;
+}
+.row{
+    margin:20px;
+}
+
+.header_name{
+    background-color:  blue;
+    height:50px;
+}
+
+.header_content{
+    background-color:  red;
+    height:50px;
+}
+
+.header_list{
+    background-color:  black;
+    height:50px;
+}
+.about_sec{
+    margin:20px;
+}
+.about_sec2{
+    margin:20px;
+}
+
+.inform_about{
+    background-color: aqua;
+    height:300px;
+}
+.image_about{
+    background-color: blueviolet;
+    height: 300px;
+}
+.value_header{
+    height:50px;
+    width:700px;
+    background-color:black;
+    margin:20px;
+} 
+.value_sec{
+    margin:20px;
+}  
+.value_img1{
+    background-color: brown;
+    height:300px;
+}
+.value_img2{
+    background-color:green;
+    height:300px;
+}
+.value_img3{
+    background-color: brown;
+    height:300px;
+}
+.counter_1{
+    background-color: aqua;
+    height:80px;
+}
+.counter_2{
+    background-color:green;
+    height:80px;
+}
+.counter_3{
+    background-color: red;
+    height:80px;
+}
+.counter_4{
+    background-color: brown;
+    height:80px;
+}
+.feature_header{
+    height:50px;
+    width:700px;
+    background-color:black;
+    margin:20px;
+    
+}
+.feature_img{
+    height:350px;
+    background-color: blue;
+}
+.box-1{
+    background-color: aqua;
+    height:80px;
+    margin:20px;
+}
+.box-2{
+    background-color: aqua;
+    height:80px;
+    margin:20px;
+}
+.box-3{
+    background-color: aqua;
+    height:80px;
+    margin:20px;
+}
+.box-4{
+    background-color: aqua;
+    height:80px;
+    margin:20px;
+}
+.box-5{
+    background-color: aqua;
+    height:80px;
+    margin:20px;
+}
+.box-6{
+    background-color: aqua;
+    height:80px;
+    margin:20px;
+}
+.note_header{
+    height:130px;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+}
+.note_content{
+    height:350px;
+    background-color:chartreuse;
+}
+.note_img{
+    height:500px;
+    background-color: blue;
+}
+.adver_sec{
+    height:50px;
+    width:700px;
+    background-color:black;
+    margin:20px;
+}
+.adver_img{
+    height:350px;
+    background-color: blue;
+}
+.services_sec{
+    height:130px;
+    background-color: black;
+    margin-bottom: 20px;
+}
+.service_box-1{
+    height:250px;
+    background-color: blueviolet;
+    margin-bottom: 10px;
+}
+.service_box-2{
+    height:250px;
+    background-color: green;
+}
+.pricing_header{
+    height:50px;
+    width:700px;
+    background-color:black;
+    margin:20px;
+}
+.pricing_img{
+    background-color: chartreuse;
+    height:500px;
+}
+.question_header{
+    height:50px;
+    width:700px;
+    background-color:black;
+    margin:20px;
+}
+.question_1{
+    background-color: aqua;
+    height:50px;
+    margin:10px;
+}
+.question_2{
+    background-color: aqua;
+    height:50px;
+    margin:10px;
+}
+.question_3{
+    background-color: aqua;
+    height:50px;
+    margin:10px;
+}
+.img_header{
+    height:100px;
+    width:700px;
+    background-color:black;
+    margin:20px;
+}
+.img_box1{
+    background-color: aqua;
+    height:200px;
+    margin:10px;
+}
+.img_box2{
+    background-color: aqua;
+    height:200px;
+    margin:10px;
+}
+.img_box3{
+    background-color: aqua;
+    height:200px;
+    margin:10px;
+}
+.team_header{
+    height:50px;
+    width:700px;
+    background-color:black;
+    margin:20px;
+}
+.team_member1{
+    background-color: aqua;
+    height:400px;
+    
+}
+.client_header{
+    height:50px;
+    width:700px;
+    background-color:black;
+    margin:20px;
+}
+.client_details{
+    background-color: blue;
+    height:100px;
+}
+.contact_header{
+    height:50px;
+    width:700px;
+    background-color:black;
+    margin:20px;
+}
+.contact_detail1{
+    background-color: blue;
+    height:200px;
+    margin:10px;
+}
+.contact_detail2{
+    background-color: blue;
+    height:200px;
+    margin:10px;
+}
+.contact_det{
+    background-color: blue;
+    height:400px;
+    margin:10px;
+}
+.news_header{
+    height:50px;
+    width:700px;
+    background-color:black;
+    margin:20px;
+}
+.news_user{
+    height:50px;
+    width:700px;
+    background-color:black;
+    margin:20px;
+}
+.footer{
+    background-color: blue;
+    height:300px;
+}
+.footer_det{
+    background-color: blue;
+    height:300px;
+}
